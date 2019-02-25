@@ -1,17 +1,12 @@
 from flask import Flask, request
 import os
-
 import torch
-import torchvision
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as O
 import torch.utils.data as data
-from torch.autograd import Variable
 import torchvision
 from torchvision import transforms
-import numpy as np
-import matplotlib.pyplot as plt
 
 
 app = Flask(__name__)
