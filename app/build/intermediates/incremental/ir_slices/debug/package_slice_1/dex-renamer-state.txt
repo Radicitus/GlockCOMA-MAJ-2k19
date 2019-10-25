@@ -1,0 +1,4 @@
+#Sun Feb 24 16:27:34 PST 2019
+base.0=C\:\\Users\\CamCam\\Documents\\Code\\Academic\\Hackathon\\MAJ 2k19\\Frontend\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
